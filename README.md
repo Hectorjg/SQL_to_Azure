@@ -29,3 +29,8 @@ An introduction to:
   
 - Files_to_Azura:
 + Contains the .csv file for this project.
+
+## The order to read and understand it by the files:
+1.- Python_codes / Upload_csv_to_Azure_storage.ipynb
+2.- Images_from_Azura / Images_set.ipynb
+3.- Python_codes / Connect_AzureSQL_to_Python.ipynb
