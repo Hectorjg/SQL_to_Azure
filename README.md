@@ -1,11 +1,17 @@
 # Implementation of Microsoft Azure from Python and Power BI Dashboard
 
 An introduction to: 
+
 -How to upload DataBases to Azure storage. 
+
 -Connect the created DataBase to Python ## Objectives 
+
 -Show the process to clean the original data in order to make it usefull in Azure.
+
 -Upload the .csv file to Azura storage.
+
 -Use the DataBase from Azura in Python (Jupyter Notebook).
+
 -Create a Dashbord in Power BI with the new DataBase.
 
 ## Project Steps: 
