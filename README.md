@@ -1,6 +1,6 @@
 # Implementation of Microsoft Azure from Python and Power BI Dashboard
 
-##An introduction to: 
+## An introduction to: 
 
 -How to upload DataBases to Azure storage. 
 
